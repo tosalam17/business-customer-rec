@@ -43,4 +43,4 @@ The notebook walks through the full pipeline of building a recommender system:
 2. Place the dataset (`ratings_Electronics.csv`) in the same directory.
 3. Open and run the notebook:
    ```bash
-   [jupyter notebook Recommendation_Systems_Learner_Notebook_Full_Code.ipynb](https://github.com/tosalam17/business-customer-rec/blob/main/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb)
+   https://github.com/tosalam17/business-customer-rec/blob/main/Recommendation_Systems_Learner_Notebook_Full_Code.ipynb
